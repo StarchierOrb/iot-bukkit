@@ -1,0 +1,10 @@
+name: IotBukkit
+version: @version@
+main: me.starorbbb.iotbukkit.Iotbukkit
+api-version: 1.16
+authors: [ starorbbb ]
+description: Connect minecraft with real world.
+commands:
+  iot:
+    usage: /iot
+    description: main command of biot
